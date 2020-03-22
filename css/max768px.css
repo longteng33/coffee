@@ -1,0 +1,43 @@
+@media (max-width:768px){
+    .header{
+        padding: 20px 0 0 0;
+    }
+    .header .nav{
+        display: none;
+    }
+    .header .title{
+        padding: 12vw 0;
+    }
+    
+    .release .intro-list{
+        flex-wrap: wrap;
+    }
+    .release .intro-item{
+        width: 100%;
+    }
+    .release .intro-item img{
+        width: 158px;
+    }
+ 
+
+
+
+    .news .news-item{
+        flex-basis: 90%;
+    }
+    .banner .floor-container{
+        flex-wrap: wrap;
+    }
+    .banner .img-con,
+    .banner .des-con{
+        flex-basis: 90%;
+    }
+
+    .aboutus .header{
+        padding:12vw 0 ;
+    }
+
+
+
+
+}

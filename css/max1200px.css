@@ -1,0 +1,17 @@
+@media (max-width:1200px){
+    .header .floor-container{
+        width: 100%;
+    }
+    .topbar .title{
+        padding: 6vw 0;
+    }
+
+
+    .release .img-banner{
+        flex-wrap: wrap;
+    }
+
+    .aboutus .header{
+        padding: 6vw 0;
+    }
+}
